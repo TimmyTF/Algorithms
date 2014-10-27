@@ -1,7 +1,7 @@
 package ru.timmy.adt.stacks.vialist;
 
-import ru.timmy.adt.common.StdIn;
-import ru.timmy.adt.common.StdOut;
+import ru.timmy.common.StdIn;
+import ru.timmy.common.StdOut;
 
 import java.util.Iterator;
 
@@ -34,6 +34,10 @@ public class Stack<Item> implements Iterable<Item> {
         first = first.next;
         N--;
         return item;
+    }
+
+    public Item peek() {
+        return first.item;
     }
 
     @Override

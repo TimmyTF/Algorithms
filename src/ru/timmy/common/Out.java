@@ -1,4 +1,4 @@
-package ru.timmy.adt.common;
+package ru.timmy.common;
 
 /**
  * Created by tflomin on 29.09.2014.

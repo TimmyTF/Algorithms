@@ -1,7 +1,7 @@
 package ru.timmy.adt.queues.vialist;
 
-import ru.timmy.adt.common.StdIn;
-import ru.timmy.adt.common.StdOut;
+import ru.timmy.common.StdIn;
+import ru.timmy.common.StdOut;
 
 import java.util.Iterator;
 

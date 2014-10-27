@@ -58,4 +58,18 @@ public class TestStack {
         assertEquals("qwerty", arrayOfStacks[0].pop());
         assertEquals("asdf", arrayOfStacks[1].pop());
     }
+
+    @Test
+    public void testStackPeek() {
+        Stack<String> stack = new Stack<String>();
+        stack.push("qwerty");
+        stack.push("asdf");
+        stack.push("foo");
+        stack.push("bar");
+        assertEquals(4, stack.size());
+
+        assertEquals("bar", stack.peek());
+        assertEquals("bar", stack.pop());
+        assertEquals("foo", stack.pop());
+    }
 }

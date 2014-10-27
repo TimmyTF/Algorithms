@@ -1,6 +1,6 @@
 package ru.timmy.adt.queues;
 
-import ru.timmy.adt.common.In;
+import ru.timmy.common.In;
 
 /**
  * Created by tflomin on 30.09.2014.

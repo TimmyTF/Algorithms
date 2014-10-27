@@ -1,7 +1,7 @@
 package ru.timmy.adt.bags;
 
-import ru.timmy.adt.common.StdIn;
-import ru.timmy.adt.common.StdOut;
+import ru.timmy.common.StdIn;
+import ru.timmy.common.StdOut;
 
 /**
  * Created by tflomin on 29.09.2014.
