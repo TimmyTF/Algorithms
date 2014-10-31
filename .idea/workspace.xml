@@ -2,37 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25bdf707-ce7b-4040-aa06-e8d1811169cf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/timmy/algsanalysis/DoublingRatio.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/timmy/adt/stacks/nonfixedcapacity/DoublingStackOfStrings.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/timmy/algsanalysis/DoublingTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/timmy/adt/stacks/vialist/OpeningParentheses.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/timmy/adt/stacks/vialist/Parentheses.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/misc/StackAndQueue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/timmy/common/StdRandom.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/timmy/common/Stopwatch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/timmy/algsanalysis/ThreeSum.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/timmy/adt/bags/Bag.java" afterPath="$PROJECT_DIR$/src/ru/timmy/adt/bags/Bag.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/timmy/adt/stacks/classic/Evaluation.java" afterPath="$PROJECT_DIR$/src/ru/timmy/adt/stacks/classic/Evaluation.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/timmy/adt/stacks/fixedcapacity/FixedCapacityStackOfStrings.java" afterPath="$PROJECT_DIR$/src/ru/timmy/adt/stacks/fixedcapacity/FixedCapacityStackOfStrings.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/timmy/adt/stacks/fixedcapacity/ItemClient.java" afterPath="$PROJECT_DIR$/src/ru/timmy/adt/stacks/fixedcapacity/ItemClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/timmy/adt/bags/LinkedBag.java" afterPath="$PROJECT_DIR$/src/ru/timmy/adt/bags/LinkedBag.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/timmy/adt/queues/LinkedQueue.java" afterPath="$PROJECT_DIR$/src/ru/timmy/adt/queues/LinkedQueue.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/timmy/adt/stacks/classic/LinkedStack.java" afterPath="$PROJECT_DIR$/src/ru/timmy/adt/stacks/classic/LinkedStack.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/timmy/adt/queues/Queue.java" afterPath="$PROJECT_DIR$/src/ru/timmy/adt/queues/Queue.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/timmy/adt/queues/vialist/Queue.java" afterPath="$PROJECT_DIR$/src/ru/timmy/adt/queues/vialist/Queue.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/timmy/adt/stacks/classic/Reverse.java" afterPath="$PROJECT_DIR$/src/ru/timmy/adt/stacks/classic/Reverse.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/timmy/adt/queues/SampleClient.java" afterPath="$PROJECT_DIR$/src/ru/timmy/adt/queues/SampleClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/timmy/adt/stacks/classic/Stack.java" afterPath="$PROJECT_DIR$/src/ru/timmy/adt/stacks/classic/Stack.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/timmy/adt/stacks/vialist/Stack.java" afterPath="$PROJECT_DIR$/src/ru/timmy/adt/stacks/vialist/Stack.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/timmy/adt/bags/Stats.java" afterPath="$PROJECT_DIR$/src/ru/timmy/adt/bags/Stats.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/timmy/adt/stacks/fixedcapacity/StringClient.java" afterPath="$PROJECT_DIR$/src/ru/timmy/adt/stacks/fixedcapacity/StringClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/stacks/classic/TestStack.java" afterPath="$PROJECT_DIR$/test/unit/stacks/classic/TestStack.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/stacks/vialist/TestStack.java" afterPath="$PROJECT_DIR$/test/unit/stacks/vialist/TestStack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/misc/TestInstrumentation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/misc/TestMemoryUsage.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\misc-projects\Algorithms\src\ru\timmy\adt\common\In.java" afterPath="$PROJECT_DIR$/src/ru/timmy/common/In.java" />
-      <change type="MOVED" beforePath="D:\misc-projects\Algorithms\src\ru\timmy\adt\common\Out.java" afterPath="$PROJECT_DIR$/src/ru/timmy/common/Out.java" />
-      <change type="MOVED" beforePath="D:\misc-projects\Algorithms\src\ru\timmy\adt\common\StdIn.java" afterPath="$PROJECT_DIR$/src/ru/timmy/common/StdIn.java" />
-      <change type="MOVED" beforePath="D:\misc-projects\Algorithms\src\ru\timmy\adt\common\StdOut.java" afterPath="$PROJECT_DIR$/src/ru/timmy/common/StdOut.java" />
     </list>
     <ignored path="Algorithms.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -58,11 +30,9 @@
       <file leaf-file-name="ThreeSum.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ru/timmy/algsanalysis/ThreeSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+            <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="561">
               <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -70,8 +40,18 @@
       <file leaf-file-name="DoublingTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ru/timmy/algsanalysis/DoublingTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
+            <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="578">
               <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DoublingRatio.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/timmy/algsanalysis/DoublingRatio.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="918">
+              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,13 +59,55 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DoublingRatio.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ru/timmy/algsanalysis/DoublingRatio.java">
+      <file leaf-file-name="FixedCapacityStack.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/timmy/adt/stacks/fixedcapacity/FixedCapacityStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.55289674" vertical-offset="122" max-vertical-offset="918">
-              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="1003">
+              <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
+                <element signature="e#312#313#0" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
+                <element signature="e#373#374#0" expanded="true" />
+                <element signature="e#398#399#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#457#458#0" expanded="true" />
+                <element signature="e#486#487#0" expanded="true" />
+                <element signature="e#511#512#0" expanded="true" />
+                <element signature="e#540#541#0" expanded="true" />
+                <element signature="e#580#581#0" expanded="true" />
+                <element signature="e#629#630#0" expanded="true" />
+                <element signature="e#760#761#0" expanded="true" />
+                <element signature="e#796#797#0" expanded="true" />
+                <element signature="e#826#827#0" expanded="true" />
+                <element signature="e#863#864#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FixedCapacityStack.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ru/timmy/adt/stacks/repetition/FixedCapacityStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.021356784" vertical-offset="0" max-vertical-offset="1037">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding>
+                <element signature="e#229#230#0" expanded="true" />
+                <element signature="e#264#265#0" expanded="true" />
+                <element signature="e#293#294#0" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
+                <element signature="e#350#351#0" expanded="true" />
+                <element signature="e#382#383#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#424#425#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
+                <element signature="e#481#482#0" expanded="true" />
+                <element signature="e#521#522#0" expanded="true" />
+                <element signature="e#649#650#0" expanded="true" />
+                <element signature="e#670#671#0" expanded="true" />
+                <element signature="e#706#707#0" expanded="true" />
+                <element signature="e#728#729#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -148,6 +170,9 @@
         <option value="$PROJECT_DIR$/src/ru/timmy/common/StdRandom.java" />
         <option value="$PROJECT_DIR$/src/ru/timmy/algsanalysis/DoublingTest.java" />
         <option value="$PROJECT_DIR$/src/ru/timmy/algsanalysis/DoublingRatio.java" />
+        <option value="$PROJECT_DIR$/test/unit/misc/TestMemoryUsage.java" />
+        <option value="$PROJECT_DIR$/test/unit/misc/TestInstrumentation.java" />
+        <option value="$PROJECT_DIR$/src/ru/timmy/adt/stacks/repetition/FixedCapacityStack.java" />
       </list>
     </option>
   </component>
@@ -185,8 +210,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -241,7 +264,11 @@
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
+              <option name="myItemId" value="adt" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stacks" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -263,7 +290,45 @@
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="algsanalysis" />
+              <option name="myItemId" value="adt" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stacks" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="repetition" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithms" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="timmy" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="adt" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stacks" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fixedcapacity" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -291,6 +356,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -319,29 +386,7 @@
       <recent name="unit.stacks.classic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DoublingRatio">
-    <configuration default="false" name="DoublingStackOfStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ru.timmy.adt.stacks.nonfixedcapacity.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ru.timmy.adt.stacks.nonfixedcapacity.DoublingStackOfStrings" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Algorithms" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.TestMemoryUsage.test">
     <configuration default="false" name="OpeningParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -360,34 +405,6 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="Algorithms" />
       <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="StackAndQueue.testStackAndQueue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="unit.misc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="Algorithms" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="unit.misc" />
-      <option name="MAIN_CLASS_NAME" value="unit.misc.StackAndQueue" />
-      <option name="METHOD_NAME" value="testStackAndQueue" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
@@ -432,6 +449,62 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="Algorithms" />
       <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="StackAndQueue.testStackAndQueue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="unit.misc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Algorithms" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="unit.misc" />
+      <option name="MAIN_CLASS_NAME" value="unit.misc.StackAndQueue" />
+      <option name="METHOD_NAME" value="testStackAndQueue" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestMemoryUsage.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="unit.misc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Algorithms" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="PACKAGE_NAME" value="unit.misc" />
+      <option name="MAIN_CLASS_NAME" value="unit.misc.TestMemoryUsage" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-Xmx600m" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
@@ -484,6 +557,25 @@
       <option name="trusted" value="true" />
       <method />
     </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -510,25 +602,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="myFilePath" />
-      <option name="GLUE" />
-      <option name="myNameFilter" />
-      <option name="myGeneratedName" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -567,6 +640,26 @@
       <patterns />
       <method />
     </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
     <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
       <option name="BCName" value="" />
       <option name="IOSSimulatorSdkPath" value="" />
@@ -602,26 +695,6 @@
       <option name="usbDebugPort" value="7936" />
       <method />
     </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
-      <module name="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
-      <method />
-    </configuration>
     <configuration default="false" name="ThreeSum" type="Application" factoryName="Application" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -646,19 +719,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.ThreeSum" />
-      <item index="1" class="java.lang.String" itemvalue="Application.DoublingStackOfStrings" />
-      <item index="2" class="java.lang.String" itemvalue="Application.OpeningParentheses" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.StackAndQueue.testStackAndQueue" />
-      <item index="4" class="java.lang.String" itemvalue="Application.DoublingTest" />
-      <item index="5" class="java.lang.String" itemvalue="Application.DoublingRatio" />
+      <item index="1" class="java.lang.String" itemvalue="Application.OpeningParentheses" />
+      <item index="2" class="java.lang.String" itemvalue="Application.DoublingTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.DoublingRatio" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.StackAndQueue.testStackAndQueue" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.TestMemoryUsage.test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.DoublingRatio" />
-        <item index="1" class="java.lang.String" itemvalue="Application.DoublingTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.OpeningParentheses" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.StackAndQueue.testStackAndQueue" />
-        <item index="4" class="java.lang.String" itemvalue="Application.DoublingStackOfStrings" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestMemoryUsage.test" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DoublingRatio" />
+        <item index="2" class="java.lang.String" itemvalue="Application.DoublingTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.OpeningParentheses" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.StackAndQueue.testStackAndQueue" />
       </list>
     </recent_temporary>
   </component>
@@ -690,15 +763,18 @@
       <workItem from="1413958099372" duration="104000" />
       <workItem from="1414387561236" duration="6110000" />
       <workItem from="1414400469076" duration="4765000" />
-      <workItem from="1414415413565" duration="2746000" />
+      <workItem from="1414415413565" duration="3962000" />
+      <workItem from="1414475994694" duration="2467000" />
+      <workItem from="1414649004631" duration="2312000" />
+      <workItem from="1414740157246" duration="1042000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59978000" />
+    <option name="totallyTimeSpent" value="67015000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="978" extended-state="7" />
+    <frame x="-8" y="-8" width="1296" height="978" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -714,18 +790,18 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32804877" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33198708" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31341463" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27221325" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41829267" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296837" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32804877" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -753,27 +829,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ru/timmy/adt/bags/Bag.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2111" max-vertical-offset="2635">
-          <caret line="78" column="7" selection-start-line="78" selection-start-column="7" selection-end-line="78" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/timmy/adt/bags/LinkedBag.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1669" max-vertical-offset="2550">
-          <caret line="143" column="0" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/timmy/common/StdOut.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="4131">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/timmy/common/Out.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4624">
@@ -799,13 +854,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="773">
           <caret line="0" column="20" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/timmy/adt/stacks/classic/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9560155" vertical-offset="2168" max-vertical-offset="3026">
-          <caret line="171" column="1" selection-start-line="171" selection-start-column="1" selection-end-line="171" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -925,13 +973,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.36739975" vertical-offset="464" max-vertical-offset="1258">
           <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/timmy/adt/stacks/fixedcapacity/FixedCapacityStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7858942" vertical-offset="209" max-vertical-offset="1003">
-          <caret line="49" column="76" selection-start-line="49" selection-start-column="76" selection-end-line="49" selection-end-column="76" />
         </state>
       </provider>
     </entry>
@@ -1061,31 +1102,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/timmy/adt/stacks/classic/Evaluation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23492463" vertical-offset="0" max-vertical-offset="952">
-          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/timmy/common/StdRandom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.34256926" vertical-offset="629" max-vertical-offset="6596">
           <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-          <folding>
-            <element signature="e#2697#2698#0" expanded="true" />
-            <element signature="e#2724#2725#0" expanded="true" />
-            <element signature="e#2825#2826#0" expanded="true" />
-            <element signature="e#2867#2868#0" expanded="true" />
-            <element signature="e#3612#3613#0" expanded="true" />
-            <element signature="e#3644#3645#0" expanded="true" />
-            <element signature="e#4945#4946#0" expanded="true" />
-            <element signature="e#4982#4983#0" expanded="true" />
-            <element signature="e#5661#5662#0" expanded="true" />
-            <element signature="e#5710#5711#0" expanded="true" />
-            <element signature="e#7442#7443#0" expanded="true" />
-            <element signature="e#7502#7503#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1093,7 +1113,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.27833754" vertical-offset="0" max-vertical-offset="794">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1101,7 +1120,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.8992443" vertical-offset="714" max-vertical-offset="8585">
           <caret line="0" column="24" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1109,9 +1127,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
           <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1119,18 +1135,103 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
           <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/unit/misc/TestMemoryUsage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.021410579" vertical-offset="0" max-vertical-offset="794">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/unit/misc/TestInstrumentation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.021410579" vertical-offset="0" max-vertical-offset="1751">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/timmy/adt/stacks/classic/Evaluation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.13190955" vertical-offset="173" max-vertical-offset="969">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#256#264#0" expanded="true" />
+            <element signature="e#306#314#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/timmy/adt/stacks/classic/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.9924623" vertical-offset="573" max-vertical-offset="2890">
+          <caret line="131" column="0" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5024#5032#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/timmy/algsanalysis/DoublingRatio.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55289674" vertical-offset="122" max-vertical-offset="918">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="918">
           <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/timmy/adt/stacks/fixedcapacity/FixedCapacityStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="1003">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+          <folding>
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+            <element signature="e#760#761#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="true" />
+            <element signature="e#826#827#0" expanded="true" />
+            <element signature="e#863#864#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/timmy/adt/stacks/repetition/FixedCapacityStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.021356784" vertical-offset="0" max-vertical-offset="1037">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#728#729#0" expanded="true" />
           </folding>
         </state>
       </provider>
