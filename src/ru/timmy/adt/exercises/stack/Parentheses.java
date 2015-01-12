@@ -1,5 +1,6 @@
-package ru.timmy.adt.stacks.vialist;
+package ru.timmy.adt.exercises.stack;
 
+import ru.timmy.adt.stacks.vialist.Stack;
 import ru.timmy.common.StdIn;
 
 import java.util.Arrays;
@@ -16,9 +17,9 @@ public class Parentheses {
             parenthesesStack.push(s);
             return true;
         } else if (Arrays.asList(")", "}", "]").contains(s)) {
-            return (")".equals(s) && "(".equals(parenthesesStack.pop())) ||
+            return !parenthesesStack.isEmpty() && ((")".equals(s) && "(".equals(parenthesesStack.pop())) ||
                     ("}".equals(s) && "{".equals(parenthesesStack.pop())) ||
-                    ("]".equals(s) && "[".equals(parenthesesStack.pop()));
+                    ("]".equals(s) && "[".equals(parenthesesStack.pop())));
         } else {
             throw new IllegalArgumentException();
         }

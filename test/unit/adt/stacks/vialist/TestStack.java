@@ -72,4 +72,12 @@ public class TestStack {
         assertEquals("bar", stack.pop());
         assertEquals("foo", stack.pop());
     }
+
+    @Test
+    public void testPopOnAnEmptyStack() {
+        exception.expect(NullPointerException.class);
+
+        Stack<Integer> intStack = new Stack<Integer>();
+        intStack.pop();
+    }
 }

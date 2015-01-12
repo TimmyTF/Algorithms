@@ -1,4 +1,6 @@
-package ru.timmy.adt.stacks.vialist;
+package ru.timmy.adt.exercises.stack;
+
+import ru.timmy.adt.stacks.vialist.Stack;
 
 import java.util.Arrays;
 

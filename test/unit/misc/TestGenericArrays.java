@@ -1,6 +1,7 @@
 package unit.misc;
 
 import org.junit.Test;
+import ru.timmy.adt.stacks.vialist.Stack;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -34,6 +35,22 @@ public class TestGenericArrays {
         genericIntegerArray.add(arr3);
 
         assertEquals(3, genericIntegerArray.innerListSize());
+    }
+
+    @Test
+    public void testArrayOfGenerics() {
+        //GenericArray<String>[] arrayOfGenerics = new GenericArray<String>[10]; // FORBIDDEN!
+        Stack<String>[] a = (Stack<String>[]) new Stack[3];
+        Stack<String> s0 = new Stack<String>(); s0.push("string0");
+        Stack<String> s1 = new Stack<String>(); s1.push("string1");
+        Stack<String> s2 = new Stack<String>(); s2.push("string2");
+
+        a[0] = s0;
+        a[1] = s1;
+        a[2] = s2;
+
+        for (Stack<String> stack : a)
+            System.out.println(stack.pop());
     }
 
     private class GenericArray<Item> {

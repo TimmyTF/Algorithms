@@ -3,6 +3,8 @@ package ru.timmy.adt.stacks.classic;
 import ru.timmy.common.StdIn;
 import ru.timmy.common.StdOut;
 
+import java.util.LinkedList;
+
 /**
  * Created by tflomin on 30.09.2014.
  *
@@ -40,7 +42,7 @@ public class Evaluation {
                 else if (op.equals("sqrt"))
                     v = Math.sqrt(v);
                 vals.push(v);
-            } else if ("]".equals(s)) {
+            } else if ("=".equals(s)) {
                 break;
             } /* Token not operator or paren: push double value.*/ else {
                 vals.push(Double.parseDouble(s));
